@@ -1,0 +1,8 @@
+/venv/
+/locacoes/
+/db/
+/contratos/
+/convenios/
+.idea/
+.vscode/
+*.pyc
